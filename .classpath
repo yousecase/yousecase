@@ -10,6 +10,8 @@
 	<classpathentry kind="src" path="src/test/format.character.base"/>
 	<classpathentry kind="src" path="src/main/format.character.impl"/>
 	<classpathentry kind="src" path="src/test/format.character.impl"/>
+	<classpathentry kind="src" path="src/main/format.string.base"/>
+	<classpathentry kind="src" path="src/main/format.string.impl"/>
 	<classpathentry kind="src" path="src/main/t2c"/>
 	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
 		<attributes>
